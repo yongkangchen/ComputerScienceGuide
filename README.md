@@ -35,7 +35,7 @@ There is no such thing that is always easy. In my experience, when you start eas
 
 So compiler language is a tough start for beginners but will be easy in the future, and it's easy to maintain in a big project. However, a scripting language is an easy start, but it's hard to maintain for a big project that requires cooperation with others.
 
-## One rule of learning is that you should start with easy jobs, and little medium difficult jobs. Then you can practice and improve. 
+### One rule of learning is that you should start with easy jobs, and little medium difficult jobs. Then you can practice and improve. 
 
 This rule can be applied to solving Leetcode problems. You should start with easy problems. When you feel a bit comfortable, you can add medium problems. And so on.
 
@@ -53,16 +53,16 @@ You'll never be able to solve a problem just by coding if you can't solve it use
 
 ### Always think critically about each step. It needs to be well thought out and know all the possibilities for each step.
 
-# About programming language
+## About programming language
 ### After getting the answers to questions blow, you can start programming and solving problems in any programming language.
-- how to define a variable: a number, a boolean, a string
+- [how to define a variable: a number, a boolean, a string](https://docs.python.org/3/tutorial/introduction.html#using-python-as-a-calculator)
 - how to perform basic mathematical calculations: addition, substraction, multiplication
-- how to control the flow of your logic: if
+- [how to control the flow of your logic: if](https://docs.python.org/3/tutorial/controlflow.html)
 - how to use loops to perform batch operations: for, while
-- how to define a function and pass arguments
-- how to use the structure: string, list, dictionary, set
+- [how to define a function and pass arguments](https://docs.python.org/3/tutorial/controlflow.html#defining-functions)
+- [how to use the structure: string, list, dictionary, set](https://docs.python.org/3/tutorial/datastructures.html)
 
-(ps: this order is basically from https://docs.python.org/3/tutorial/index.html)
+(ps: this order is basically from https://docs.python.org/3/tutorial/index.html , you can click links above directly.)
 
 ### The Next thing you need to know is the type of variable: Value types and Reference types, then the scope of the variable. This will help you prevent some simple mistakes when coding.
 
@@ -71,7 +71,6 @@ So after having a little preparation, go for it. Getting started is often the ha
 
 ## course
 I have divided courses in Computer Science for graduates in Santa Clara University into following categories.
-
 ### Base courses:
 #### Level 1: Programming language、Discrete math (AMTH 240)、Abstract Data Types and Data Structures (COEN 912C)、Design and Analysis of Algorithms (COEN 279).
 
