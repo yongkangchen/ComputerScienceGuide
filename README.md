@@ -72,9 +72,9 @@ So after having a little preparation, go for it. Getting started is often the ha
 ## course
 I have divided courses in Computer Science for graduates in Santa Clara University into following categories.
 ### Base courses:
-#### Level 1: Programming language、Discrete math (AMTH 240)、Abstract Data Types and Data Structures (COEN 912C)、Design and Analysis of Algorithms (COEN 279).
+#### Programming language、Discrete math (AMTH 240)、Abstract Data Types and Data Structures (COEN 912C)、Design and Analysis of Algorithms (COEN 279).
 
-(ps: with the Level 1 courses, you can start to solving Leetcode problems.)
+(ps: with the basic courses, you can start to solving Leetcode problems.)
 
 ### Application courses: (depend on your interests)
 
