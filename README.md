@@ -95,3 +95,11 @@ for web backend direct
 - COEN 259. Advanced Compilers Design
 - COEN 210. Computer Architecture
 - COEN 233. Computer Networks
+
+# About your resume
+You should make an appointment with your university's career center. They can provide services such as resume or cover letter or LinkedIn Support, as well as career coaching.
+
+First, you should have a master version of your resume. Then you should customize your resume to match the job description that you plan to apply for. 
+Experiences or Skills that not related to the job requirements would be a distracting to the viewer, and may even cause a annoying feeling.
+
+Regarding your information on LinkedIn, it should be consistent with your resume.
